@@ -15,3 +15,5 @@ An intelligent pathfinding application that calculates the most efficient bus ro
 
 ## 📈 Technical Insight
 The core of the project involves parsing spatial data and representing it as a network. To ensure optimal performance, I utilized a `PriorityQueue` to maintain a $O((V + E) \log V)$ time complexity, where $V$ is the number of stops and $E$ is the number of bus lines.
+## 📊 Example Output
+![Adana Journey Planner Output](output_example.png)
