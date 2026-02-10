@@ -1,0 +1,11 @@
+﻿LineId;LineNo;Name
+1;101;MerkezPark - CukurovaUniversitesi
+2;102;AdanaOtogar - MerkezPark
+3;103;YuregirMerkez - ATUMerkezKampus
+4;104;SeyhanDevletHastanesi - GazipasaBulvari
+5;105;BarajYolu - BalcaliHastanesi
+6;106;CarshiMerkez - YuregirMerkez
+7;107;Galleria - Karasoku
+8;108;MetroIstasyonu - MerkezPark
+9;109;M1AlisverisMerkezi - AtaturkCaddesi
+10;110;TurgutOzalBulvari - HastaneKavsagi
